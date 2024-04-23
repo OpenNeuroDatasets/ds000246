@@ -19,5 +19,5 @@
         "http://neuroimage.usc.edu/brainstorm/",
         "https://openfmri.org/dataset/ds000246/"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds000246.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds000246.v1.0.1"
 }
